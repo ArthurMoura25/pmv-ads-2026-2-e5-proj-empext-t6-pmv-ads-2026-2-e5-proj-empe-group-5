@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "pmv-ads-2026-2-e5-proj-empext-t6"
+assignment: "pmv-ads-2026-2-e5-proj-empe"
+secret: "njvuuxfn"
+owner:
+  username: "FernandoCardoso06"
+  id: 155500287
+  accepted_at: "2026-09-06T21:26:58Z"
+source:
+  owner: "ICEI-PUC-Minas-PMV-ADS"
+  owner_id: 80099293
+  repo: "ExtApplicationProject-Template"
+  branch: "main"
